@@ -18,7 +18,7 @@ Feel free to contact me if you have any tips or questions. [This is my LinkedIn 
 
 
 ## How to run ##
-- Just clone this repo and run `skaffold dev`. Skaffold will setup all the images and run the kubectl apply commands to create the kubernetes cluster.
+- Just clone this repo and run `skaffold dev`. Skaffold will setup all the images and run the `kubectl apply` commands to create the kubernetes cluster.
 
 You also need to edit your system's hosts file to access the project using http://posts.com address.
 
