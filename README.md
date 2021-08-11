@@ -28,4 +28,4 @@ You also need to edit your system's hosts file to access the project using http:
 (I can't remember now how to reach the file at MacOS/Linux systems, sorry!)
 
 ---
-:brazil: Mika Nascimento. 
+:brazil: Mika Nascimento. - Linkedin: in/michaelnsc
